@@ -46,14 +46,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Krosis123/Krosis123/output/github-snake-dark.svg" />
-</p>
-
----
-
 ## 📌 Featured Projects
 
 | Project | Description |
