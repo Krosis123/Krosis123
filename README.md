@@ -1,27 +1,29 @@
-<h1 align="center">Hi, I'm Usman 👋</h1>
+<h1 align="center">Hi, I'm Usman Yahya 👋</h1>
 
 <p align="center">
-  CS student • Low-level systems • AI • Web dev • Computer architecture
+  Computer Science student interested in AI, low-level systems, web development, and computer architecture.
 </p>
 
 <p align="center">
-  <a href="https://usmanyahya.com">Portfolio</a> •
-  <a href="https://github.com/Krosis123">GitHub</a> •
+  <a href="https://usmanyahya.com">Portfolio</a> ·
+  <a href="https://github.com/Krosis123">GitHub</a> ·
   <a href="https://www.linkedin.com/in/usman-yahya-98840231a/">LinkedIn</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 Studying CS / Engineering
-- 🧠 Interested in AI, systems, computer architecture, and performance benchmarking
-- ⚙️ Currently working on low-level memory latency experiments
-- 🌐 Building my portfolio and AI assistant projects
+I am a CS student exploring the intersection of software engineering, artificial intelligence, and computer systems. I enjoy building projects that help me understand how things work beneath the surface, from web applications to low-level performance experiments.
+
+- Interested in AI, systems programming, computer architecture, and performance analysis
+- Currently working on memory latency benchmarking and portfolio-based AI projects
+- Building projects in C++, Python, JavaScript, React, and Linux-based environments
+- Focused on learning through practical implementation and experimentation
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,js,react,vite,html,css,linux,git,github,vscode,docker" />
@@ -29,38 +31,30 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Krosis123&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krosis123&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Krosis123&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krosis123&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Krosis123&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-
-
----
-
-## 📌 Featured Projects
+## Featured Projects
 
 | Project | Description |
 |---|---|
-| Portfolio Website | Vite + React personal portfolio deployed on Vercel |
-| Memory Latency Benchmark | Pointer-chasing benchmark for cache/TLB latency analysis |
-| ALU From Scratch | Computer architecture project |
-| Assembler From Scratch | Low-level systems project |
+| **Portfolio Website** | Personal portfolio built with Vite and React, deployed on Vercel |
+| **Memory Latency Benchmark** | Pointer-chasing benchmark for studying cache and TLB behavior |
+| **ALU From Scratch** | Computer architecture project focused on digital logic and arithmetic operations |
+| **Assembler From Scratch** | Low-level systems project for understanding assembly and instruction translation |
 
 ---
 
-<p align="center">
-  <i>"Learning by building, breaking, measuring, and rebuilding."</i>
-</p>
+## Current Focus
+
+```txt
+AI systems        █████████░░
+Low-level C/C++   ████████░░░
+Web development   ███████░░░░
+Computer architecture ████████░░░
